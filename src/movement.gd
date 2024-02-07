@@ -1,6 +1,6 @@
 extends CharacterBody3D
 
-const SPEED = 9
+const SPEED = 10
 const JUMP_VELOCITY = 8
 const FALL_VEL = -12
 const DASH_SPEED = 40
