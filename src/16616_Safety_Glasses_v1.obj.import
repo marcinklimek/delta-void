@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cwl678pjaho6g"
+path="res://.godot/imported/16616_Safety_Glasses_v1.obj-5c878e01a1fdb6d93c7ebd7f3de11c39.mesh"
+
+[deps]
+
+files=["res://.godot/imported/16616_Safety_Glasses_v1.obj-5c878e01a1fdb6d93c7ebd7f3de11c39.mesh"]
+
+source_file="res://16616_Safety_Glasses_v1.obj"
+dest_files=["res://.godot/imported/16616_Safety_Glasses_v1.obj-5c878e01a1fdb6d93c7ebd7f3de11c39.mesh", "res://.godot/imported/16616_Safety_Glasses_v1.obj-5c878e01a1fdb6d93c7ebd7f3de11c39.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
